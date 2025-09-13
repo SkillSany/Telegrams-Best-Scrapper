@@ -2,8 +2,7 @@
 Telegram Scrapper written in Python. Analyze your traffic easily and any targeted channel/group. Check hidden-members aswell.
 
 #### GET PROGRAM HERE: https://shorturl.at/BoObL
-
-Feel free to contact us: https://shorturl.at/knlbI
+For any questions: https://shorturl.at/knlbI
 
 <img src='UI1.png' width='450'>
 
