@@ -33,11 +33,6 @@ For any questions: https://shorturl.at/knlbI
 - AND MUCH MORE!
 
 NEW FEATURES WILL BE IMPLEMENTED AT WISH!
-If you have any questions, make sure to contact us.
-
-#### GET PROGRAM HERE: https://shorturl.at/BoObL
-
-Feel free to contact us: https://shorturl.at/knlbI
 
 <a href="https://github.com/SkillSany/Telegrams-Best-Scrapper"><img alt="Cute Count" src="https://count.getloli.com/get/@DaveTG?theme=asoul" /></a>
 
