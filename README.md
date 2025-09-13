@@ -1,5 +1,5 @@
 # Telegrams-Best-Scrapper
-Telegram Scrapper written in Python. Analyze your traffic easily and any targeted channel/group. Check hidden-members aswell.
+Telegram Scrapper written in Python. Analyze your traffic easily and any targeted channel/group. Check hidden-members aswell
 
 #### GET PROGRAM HERE: https://shorturl.at/BoObL
 For any questions: https://shorturl.at/knlbI
